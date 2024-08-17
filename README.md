@@ -1,6 +1,10 @@
+# Kriston Bot
+
+A discord bot to learn Discord.js and Google Cloud App Engine
+
 # Ideas
 
--   random team generator
+-   Random Team Generator
     -   add a button to reroll teams
--   youtube music
--
+-   Youtube Music Player
+-   Letterboxd Api Attachment

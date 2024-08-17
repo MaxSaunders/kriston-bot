@@ -1,3 +1,4 @@
+// cSpell:ignore giphy
 import axios from "axios"
 import { MessagePayload } from "discord.js"
 
