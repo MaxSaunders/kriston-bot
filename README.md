@@ -50,3 +50,5 @@ automatic_scaling:
     -   add a button to reroll teams
 -   Youtube Music Player
 -   Letterboxd Api Attachment
+    -   Post when someone adds a review / comment
+-   Coin flip / Dice roll
