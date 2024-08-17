@@ -30,8 +30,6 @@ export const queryGiphySafe = async (search: string): Promise<MessagePayload> =>
         const randomIndex = getRandomInt(resultsLimit)
         const giphyObject = response.data?.data?.[randomIndex]
 
-        console.log({ resultsLimit })
-
         if (giphyObject?.url) {
             return giphyObject.url
         } else if (response.data.meta.status === "429") {
